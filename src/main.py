@@ -1,7 +1,7 @@
 # src/main.py
+#Composite es un tipo de accion INVESTIGAR
 
 import os
-
 num = os.environ.get("INPUT_NUM")
 
 #obtener entrada y converitr a entero
